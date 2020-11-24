@@ -1,0 +1,7 @@
+[auth]
+token=0aa5605931a74247bfe7558ac86af1cdf478fe0b481945bb958238606eb63424
+
+[defaults]
+url=https://sentry.io/
+org=anycase
+project=anycase
