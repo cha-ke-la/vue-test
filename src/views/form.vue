@@ -50,20 +50,6 @@ export default {
         console.log(valid)
         throw new Error('login')
       })
-      // this.$refs["loginForm"].validate(valid => {
-      //   const notice = this.$notice({
-      //     title: "社会你杨哥喊你来搬砖",
-      //     message: valid ? "请求登录!" : "校验失败!",
-      //     duration: 2000
-      //   });
-      //   notice.show();
-      //   // if (valid) {
-      //   //   alert("submit");
-      //   // } else {
-      //   //   console.log("error submit!");
-      //   //   return false;
-      //   // }
-      // });
     }
   }
 };
